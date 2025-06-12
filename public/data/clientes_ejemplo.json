@@ -1,0 +1,37 @@
+[
+  {
+    "codigoSN": "CLI001",
+    "nombreSN": "FERRETERÍA GONZÁLEZ S.A. DE C.V.",
+    "rfc": "FGO950523ABC",
+    "codigoCondicionesPago": "30",
+    "codigoGrupo": "A"
+  },
+  {
+    "codigoSN": "CLI002", 
+    "nombreSN": "CONSTRUCCIONES MARTÍNEZ",
+    "rfc": "MARP801215DEF",
+    "codigoCondicionesPago": "15",
+    "codigoGrupo": "B"
+  },
+  {
+    "codigoSN": "CLI003",
+    "nombreSN": "DISTRIBUIDORA INDUSTRIAL LÓPEZ S.A.",
+    "rfc": "DIL920310GHI",
+    "codigoCondicionesPago": "45",
+    "codigoGrupo": "A"
+  },
+  {
+    "codigoSN": "CLI004",
+    "nombreSN": "JUAN CARLOS HERNÁNDEZ RUIZ",
+    "rfc": "HERJ850618JKL",
+    "codigoCondicionesPago": "30",
+    "codigoGrupo": "C"
+  },
+  {
+    "codigoSN": "CLI005",
+    "nombreSN": "MATERIALES Y CONSTRUCCIÓN DEL NORTE S.A.",
+    "rfc": "MCN880425MNO",
+    "codigoCondicionesPago": "60",
+    "codigoGrupo": "A"
+  }
+]
